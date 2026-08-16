@@ -6,7 +6,7 @@ import time
 from io import BytesIO
 
 st.set_page_config(page_title="PageRank - 10 Sites Web", layout="wide")
-st.title("🚀 Implémentation et Expérimentation de PageRank")
+st.title("🚀 Implémentation et Expérimentation de l'algorithme PageRank(mbola teste😂)")
 
 # 1. GRAPHE DE BASE : 10 SITES
 BASE_SITES = {
