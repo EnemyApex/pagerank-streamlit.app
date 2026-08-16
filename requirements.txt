@@ -1,5 +1,5 @@
 streamlit
 networkx
 matplotlib
-numpy
-
+pandas
+numpy 
